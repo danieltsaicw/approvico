@@ -25,11 +25,11 @@ function parse_receipt (binary image) {
   ex.parse(image)
 
   return JSON parsed_data = {
-      total_amount = <float>,
-      coordinate_transaction: <string>, 
-      coordinate_image: <string>,
-      date_time_transaction: <datetime>,
-      date_time_image: <datetime>
+      total_amount: FLOAT, <br>
+      coordinate_transaction: STRING, <br> 
+      coordinate_image: STRING, <br>
+      date_time_transaction: STRING, <br>
+      date_time_image: DATETIME <br>
     }
   
   }
