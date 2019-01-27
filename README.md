@@ -65,7 +65,7 @@ function get_approval (image) {
 # save into blockchian
 
 what to save?
-why save on chain rather tha on sever?
+why save on chain rather than on sever?
 
 
 # read from blockchain
