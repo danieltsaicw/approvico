@@ -44,7 +44,17 @@ function get_approval (image) {
   parsed_data = parse_receipt(image) 
   
   BOOLEAN approval = verify(parsed_data) // e.g. date_time_transaction - date_time_image < 3.hours */
-  
+
+    <method 2-1>
+      email_superivsor = email_mapping_list(email_address_staff)
+      approval = mailer.send()
+    </method 2-1>
+
+    <method 2-2>
+      blochchain_addrss = blockchain_address_mapping_list(blockchain_address_staff)
+      approval = blockchain_trasaction(blochchain_addrss) ##HOW?
+    </method 2-2>
+
     return BOOLEAN approval
   }
 
