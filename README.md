@@ -1,3 +1,9 @@
+
+ref of django https://django.readthedocs.io/en/2.1.x/intro/tutorial01.html
+
+
+
+
 # approvico
 
 
