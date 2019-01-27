@@ -53,7 +53,7 @@ function get_approval (image) {
 
     <method 2-2>
       blochchain_address_approver = blockchain_address_mapping_list(blockchain_address_staff)
-      blockchain_trasaction(blochchain_address_approver) @Puranj, HOW? 
+      blockchain_notification(blochchain_address_approver) @Puranj, HOW? There's no way to build eamil server on chain 
       approval = waiting (feeback_approver) @Puranj, what's the data type of the feedback from approver?
     </method 2-2>
 
