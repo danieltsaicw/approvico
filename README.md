@@ -1,6 +1,7 @@
 # approvico
 
 
+# Type 1 : zero waiting with preset condition of approval
 
 
 import "Google Vision" as gv
@@ -35,7 +36,7 @@ function parse_receipt (image) {
   
   }
 
-# Type 2 : zero waiting with preset condition of approval
+# Type 2 : waiting with manual approval from supervisors
 
 
 
@@ -51,9 +52,9 @@ function get_approval (image) {
     </method 2-1>
 
     <method 2-2>
-      blochchain_addrss = blockchain_address_mapping_list(blockchain_address_staff)
-      approval = blockchain_trasaction(blochchain_addrss) 
-   # HOW?
+      blochchain_address_approver = blockchain_address_mapping_list(blockchain_address_staff)
+      blockchain_trasaction(blochchain_address_approver) @Puranj, HOW? 
+      approval = waiting (feeback_approver) @Puranj, what's the data type of the feedback from approver?
     </method 2-2>
 
     return BOOLEAN approval
@@ -61,9 +62,16 @@ function get_approval (image) {
 
 }
 
+# save into blockchian
+
+what to save?
+why save on chain rather tha on sever?
 
 
+# read from blockchain
 
+who would read?
+wha moivate them to read?
 
 
 
