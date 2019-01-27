@@ -62,6 +62,15 @@ function get_approval (image) {
 
 }
 
+# updates of Credibity token
+
+
+  if supervisor approves 
+  then Approvee.at("blockchain_address").creditibyt += 1
+  
+
+
+
 # save into blockchian
 
 what to save?
