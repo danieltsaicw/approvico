@@ -71,7 +71,12 @@ why save on chain rather than on sever?
 # read from blockchain
 
 who would read?
-wha moivate them to read?
+what moivates them to read?
+
+#other issues
+supervisors has no incentive to approve (only approvee get Credibity Token)
+
+
 
 
 
