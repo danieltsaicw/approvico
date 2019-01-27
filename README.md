@@ -73,7 +73,7 @@ why save on chain rather than on sever?
 who would read?
 what moivates them to read?
 
-#other issues
+# other issues
 supervisors has no incentive to approve (only approvee get Credibity Token)
 
 
