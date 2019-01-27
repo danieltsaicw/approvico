@@ -53,7 +53,7 @@ function get_approval (image) {
     <method 2-2>
       blochchain_addrss = blockchain_address_mapping_list(blockchain_address_staff)
       approval = blockchain_trasaction(blochchain_addrss) 
-      #HOW?
+   # HOW?
     </method 2-2>
 
     return BOOLEAN approval
